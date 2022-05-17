@@ -11,7 +11,7 @@
 ### 📫🤝🏻 Connect with Me
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/ataliamoreno/) 👨🏻‍💻
-- Shoot Me an [Email](mailto: ataliamoreno83@gmail.com) 💌
+- Shoot Me an [Email](mailto:ataliamoreno83@gmail.com) 💌
 - [GitHub Profile Summary](https://profile-summary-for-github.com/user/21Atalia)
 
 <h3 align="left">Languages and Tools:</h3>
