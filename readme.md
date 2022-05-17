@@ -10,7 +10,7 @@
 
 ### 📫🤝🏻 Connect with Me
 
-- Connect with me on [LinkedIn]("https://linkedin.com/in/ataliamoreno/) 👨🏻‍💻
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/ataliamoreno/) 👨🏻‍💻
 - Shoot Me an [Email](ataliamoreno83@gmail.com) 💌
 - [GitHub Profile Summary](https://profile-summary-for-github.com/user/21Atalia)
 
