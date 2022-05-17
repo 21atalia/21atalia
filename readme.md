@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 Exploring new technologies and developing software solutions 
-- 🎓 Graduated with a degree in Administrative Informatics at the National Autonomous University of Honduras. 
+- 🎓 Degree in Administrative Informatics from the Universidad Nacional Autónoma de Honduras. 
 - 🌱 Currently learning Javascript, Typescript, Read & Node. 
 - Open to collaboration on projects and internship opportunities.
 
